@@ -3,4 +3,4 @@ source "http://gems.github.com"
 
 gem 'sinatra'
 gem 'haml'
-gem 'songkickr'
+gem 'httparty'
